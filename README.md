@@ -13,9 +13,12 @@ You will also need an OpenAI API key. You can sign up for an OpenAI account [her
 
 ## Installation
 
-
 - `cd open-ai-nodejs`
 - `npm install`
+
+
+## How to use
+
 - `node run "Write a description about manatal"` or your own query
 
 ### Conclusion

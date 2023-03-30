@@ -1,6 +1,8 @@
 # Using OpenAI's ChatGPT with Node.js
 
-In this example, we will demonstrate how to use OpenAI's ChatGPT with Node.js to generate responses to user messages in a chatbot.
+In this example, we will demonstrate how to use OpenAI's ChatGPT with Node.js.
+
+![open-ai](https://user-images.githubusercontent.com/40295212/228854989-81dcf0f5-32e7-4f53-8c58-4ceec2ce12f5.png)
 
 ## Prerequisites
 

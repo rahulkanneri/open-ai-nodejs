@@ -17,6 +17,8 @@ You will also need an OpenAI API key. You can sign up for an OpenAI account [her
 
 - `cd open-ai-nodejs`
 - `npm install`
+- `cp .env.example .env`
+- Genarate OpenAI Key & add it in .env file
 
 
 ## How to use
